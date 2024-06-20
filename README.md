@@ -4,10 +4,9 @@
 
 # Install
 ### 要求
-''
-hello world
-''
-
+'''
+Lua >=5.0
+'''
 
 # configure
 ### 配置清单
