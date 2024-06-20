@@ -1,6 +1,8 @@
 # 💤 LazyVim Configure
 
 ---
+![Uploading image.png…]()
+---
 
 # Install
 #### 要求:
