@@ -8,7 +8,6 @@
 Lua >=5.0
 Neovim >= 0.9.0
 Git >= 2.19.0
-
 ```
 #### 使用PowerShell安装Lazyvim
 ##### 备份您当前的 Neovim 文件:
@@ -31,7 +30,7 @@ Remove-Item $env:LOCALAPPDATA\nvim\.git -Recurse -Force
 ```
 nvim!
 ```
-##### 详细[LazyVim](https://www.lazyvim.org/)
+##### 详细->[LazyVim](https://www.lazyvim.org/)
 
 # configure
 #### 配置清单
